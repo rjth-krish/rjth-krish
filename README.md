@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rjth-krish
-- 👀 I’m interested in ReactJS,nodeJS 🦖
-- 🌱 I’m currently learning everything 🤣
-- ✨ I'm working at JK Lucent 💞️
+- 👀 I’m interested in Web Development 🦖
+- 🌱 I’m currently into MERN stack 💞️
+- ✨ I'm currently freelancing ✨
 - 💞️ I’m looking to collaborate on MERN projects...
 - 📫 How to reach me --          🔗 www.linkedin.com/in/rjth-krish
 -                         📧 rjth.rkrishnan@hotmail.com          
