@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjth-krish
 - 👀 I’m interested in Web Development 🦖
-- 🌱 I’m currently into MERN stack 💞️
+- 🌱 I’m currently into MERN stack upskilling in Python Django 💞️
 - ✨ I'm currently freelancing ✨
 - 💞️ I’m looking to collaborate on MERN projects...
 - 📫 How to reach me --          🔗 www.linkedin.com/in/rjth-krish
