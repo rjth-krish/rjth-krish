@@ -28,6 +28,7 @@
 - :zap: I'm currently <b>freelancing</b>.
 
 - :mailbox: How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rajithrkrishnan/)
+  [![EMAIL](https://img.shields.io/badge/Email-Code?style=for-the-badge&logo=Mail.ru&logoColor=black&color=F1C232)](mailto:rjth.rkrishnan@hotmail.com)
 
 ---
 
