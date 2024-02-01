@@ -20,12 +20,12 @@
 
 ---
 
-- :man_technologist: <b>About Me:</b> I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Experienced <b>full-stack developer</b> with <b>MERN-stack</b> proficiency and agile expertise, currently interning in <b>Python Django</b>
+- :man_technologist: <b>About Me:</b> I am a SFCC Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Experienced <b>full-stack developer</b> with <b>MERN-stack</b>, <b>Python Django</b> proficiency and agile expertise, currently working as <b>SFCC Developer</b>.
 
 - :seedling: Exploring new <b>Web-Dev Technologies</b>.
 
-- :zap: I'm currently <b>freelancing</b>.
+- :zap: I'm currently working fulltime at <b>ProximaGenesis Pvt. Ltd.</b>
 
 - :mailbox: How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rajithrkrishnan/)
   [![EMAIL](https://img.shields.io/badge/Email-Code?style=for-the-badge&logo=Mail.ru&logoColor=black&color=F1C232)](mailto:rjth.rkrishnan@hotmail.com)
