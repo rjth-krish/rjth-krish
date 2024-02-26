@@ -21,7 +21,7 @@
 ---
 
 - :man_technologist: <b>About Me:</b> I am a SFCC Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kerala, India.
-- :telescope: Experienced <b>full-stack developer</b> with <b>MERN-stack</b>, <b>Python Django</b> proficiency and agile expertise, currently working as <b>SFCC Developer</b>.
+- :telescope: Experienced <b>full-stack developer</b> with <b>MERN-stack</b>, <b>Python Django</b> currently working as <b>SFCC Developer</b>.
 
 - :seedling: Exploring new <b>Web-Dev Technologies</b>.
 
